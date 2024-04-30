@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projeto Calcular Idade</string>
+    <string name="edtDia">Dia</string>
+    <string name="edtMes">Mês</string>
+    <string name="edtAno">Ano de Nascimento</string>
+    <string name="calcular">calcular Idade</string>
+    </resources>
